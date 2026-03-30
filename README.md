@@ -38,7 +38,7 @@ digital-literacy-project/
 │   ├── Email.txt
 │   └── SOCIAL MEDIA CHECKLIST.md
 │
-├── task-5-cybercrime/
+├── TASK 5/
 │   ├── CaseStudy.md
 │   └── PREVENTION CHECKLIST.md
 ```
