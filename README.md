@@ -8,6 +8,44 @@ Course: CSE0001 – Digital Literacy
 ## Project Overview
 This project is created as part of the Digital Literacy course. It demonstrates understanding of digital tools, online presence, communication, and cyber safety.
 
+Each task in this repository reflects practical learning and real-world application.
+
+---
+
+## 📂 Repository Structure
+```
+digital-literacy-project/
+│
+├── README.md
+│
+├── Project report/
+│   └── project report.docx
+│
+├── TASK 1/
+│   └── Digital Literacy Infographic.png
+│
+├── TASK 2/
+│   ├── GITHUB PROFILE.png
+│   ├── KAGGLE PROFILE.png
+│   └── LINKEDIN PROFILE.png
+│
+├── TASK 3/
+│   ├── CodeChef.png
+│   ├── Google form.png
+│   └── responds.png
+│
+├── TASK 4/
+│   ├── Email.txt
+│   └── SOCIAL MEDIA CHECKLIST.md
+│
+├── task-5-cybercrime/
+│   ├── CaseStudy.md
+│   └── PREVENTION CHECKLIST.md
+```
+
+---
+
+
 ## Modules Covered
 
 ### Task 1 – Infographic
